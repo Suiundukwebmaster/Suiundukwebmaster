@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Suiundukwebmaster
-- 👀 I’m interested in ..ШЕ
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Привет, Я Суйундук!
+- 👀 Меня интересует сфера IT
+- 🌱 Заканчиваю КГГУ
+- 💞️ Ищу сотрудничество в этой сфере
+- 📫 По всем вопросам, написать мне
 
 <!---
 Suiundukwebmaster/Suiundukwebmaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
